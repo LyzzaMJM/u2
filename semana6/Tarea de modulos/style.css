@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(114, 191, 226);
+    color: whitesmoke;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+
+h1 {
+    background-color: #243b6d;
+    color: lightblue;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+
+#result {
+    font-size: 2em;
+    color: lightblue;
+    text-align: center;
+    margin-top: 20px;
+}
